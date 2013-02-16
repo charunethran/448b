@@ -1,0 +1,300 @@
+ <!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Visualizing Climate Change</title>
+	<link rel="stylesheet" href="styles.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="print.css" media="print" />
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+
+
+<body>
+
+
+<!--<div id="hide" style="position: absolute; top: 620px; left: 40px; background: white; width: 200px; height: 50px"></div> -->
+<script src="http://d3js.org/d3.v2.min.js?2.9.6"></script>
+<script src="nvd3.js"></script>
+<script src="http://nvd3.org/js/data/stream_layers.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<link href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="http://twitter.github.com/bootstrap/assets/css/bootstrap-responsive.css" rel="stylesheet" type="text/css" />
+<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap.js"></script>
+<link href="http://nvd3.org/src/nv.d3.css" rel="stylesheet" type="text/css">
+
+<script src="http://d3js.org/d3.geo.projection.v0.min.js"></script>
+<script src="http://d3js.org/topojson.v0.min.js"></script>
+
+<style>
+  body {overflow-y:scroll;}
+  #chart1, #chart2 { height: 400px;}
+</style>
+<style>
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: relative;
+  float: left;
+}
+
+text {
+  font: 10px sans-serif;
+}
+
+form {
+  position: absolute;
+
+}
+
+</style>
+
+
+<style>
+.background {
+  fill: #ffffff;
+  pointer-events: all;
+}
+
+#states {
+  fill: #aaa;
+  stroke: #A9A;
+  stroke-width: 1.5px;
+}
+
+#states .active {
+  fill: steelblue;
+}
+
+#states .dataexists {
+  fill: steelblue;
+}
+
+</style>
+<body>
+
+  <br /><br />
+  <font style = "Georgia" size = "7"> <a href="http://stanford.edu/~charupg/448b/final1">Back</a></font>
+  <br><br>
+  <table class="table table-bordered" width="1200">
+    <tr><td width="800" height="400">
+      <div id="worldmap"></div>
+      <br /><br /><a href="http://www.stanford.edu/~charupg/448b/kyoto/kyoto.html">Clear Map</a>
+        </td><td>
+            <div id="countrytext"><h2>Click on a country on the map to get started.</h2></div>
+        </td></tr> 
+    <tr><td>
+            <div id="chartdiv1"><svg id="chart1"></svg></div>
+        </td>
+    <td width="1000">
+            <div id="chartdiv2"><svg id="chart2"></svg></div>
+        </td></tr>
+  </table>
+
+
+
+<script>
+var countrydata = new Array();
+var stackeddata = new Array();
+var kyototext = new Array();
+var countries_with_data = new Array();
+
+var width = 660,
+    height = 400,
+    centered;
+
+
+var projection = d3.geo.mercator()
+    .scale(width)
+    .translate([0, 10]);
+
+var path = d3.geo.path()
+    .projection(projection);
+
+var svg = d3.select("#worldmap").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+svg.append("rect")
+    .attr("class", "background")
+    .attr("width", width)
+    .attr("height", height)
+    .on("click", click);
+
+var g = svg.append("g")
+    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")")
+  .append("g")
+    .attr("id", "states");
+
+d3.csv("kyototext.csv", function(data) {
+  for( var k = 0; k < data.length; k++){
+    countries_with_data.push( data[k].countryname );
+    kyototext[ data[k].countryname ] = data[k].kyototext;
+  }
+  console.log(kyototext);
+});
+
+d3.json("world-countries.json", function(json) {
+  g.selectAll("path")
+      .data(json.features)
+    .enter().append("svg:path")
+      .attr("d", path)
+      .classed("dataexists", function(d){ if( countries_with_data.indexOf(d.properties.name) != -1){ return "dataexists"; } })
+      .on("click", click)
+      .append("title")
+  .text(function(d) {return d.properties.name; });
+});
+
+
+
+
+d3.csv("data_448b.csv", function(data) {
+
+  for( var k = 0; k < data.length; k++){
+
+    if( typeof countrydata[ data[k].country ] == 'undefined'){
+      countrydata[ data[k].country ] = new Array();
+    }
+    if( typeof countrydata[ data[k].country ][ data[k].series ] == 'undefined'){
+      countrydata[ data[k].country ][ data[k].series ] = new Array();
+    }
+    countrydata[ data[k].country ][ data[k].series ].push({ series: data[k].series, x: data[k].x, y: data[k].relative });
+  }
+
+  //console.log(countrydata);
+});
+
+
+d3.csv("stacked_data.csv", function(data) {
+
+  for( var k = 0; k < data.length; k++){
+
+    if( typeof stackeddata[ data[k].country ] == 'undefined'){
+      stackeddata[ data[k].country ] = new Array();
+    }
+    if( typeof stackeddata[ data[k].country ][ data[k].series ] == 'undefined'){
+      stackeddata[ data[k].country ][ data[k].series ] = new Array();
+    }
+    //var currentdate = new Date(data[k].x, 0, 1, 0, 0, 0, 0);
+    //var unixtime_in_milliseconds =  Math.round(currentdate.getTime() ) + Math.floor((Math.random()*10)+1) ;
+    stackeddata[ data[k].country ][ data[k].series ].push( [ data[k].x, data[k].y ]);
+  }
+
+
+  //console.log(stackeddata);
+
+
+
+});
+
+
+function click(d) {
+  var x = 0,
+      y = 0,
+      k = 1;
+
+  if (d && centered !== d) {
+    var centroid = path.centroid(d);
+    x = -centroid[0];
+    y = -centroid[1];
+    k = 2;
+    centered = d;
+  } else {
+    centered = null;
+  }
+
+  kyotodashboard( d.properties.name );
+  g.selectAll("path")
+      .classed("active", centered && function(d) { return d === centered; });
+
+  g.transition()
+      .duration(1000)
+      .attr("transform", "scale(" + k + ")translate(" + x + "," + y + ")")
+      .style("stroke-width", 1.5 / k + "px")
+    ;
+}
+
+</script>
+
+
+
+
+
+  <script> 
+
+  function kyotodashboard( countryname){
+        console.log( countryname );
+        if( typeof kyototext[ countryname ] != 'undefined'){
+            var kyotodetailhtml = kyototext [ countryname ];
+        } else{
+            var kyotodetailhtml = '<h2>'+countryname+'</h2><br /><br />More information will be provided soon about this country.';
+        }
+        $("#countrytext").html( kyotodetailhtml + '<br /><br /><a href="http://www.stanford.edu/~charupg/448b/kyoto/kyoto.html">Clear Map</a>' );
+        $("#chartdiv1").html('<svg id="chart1"></svg>');
+        $("#chartdiv2").html('<svg id="chart2"></svg>');
+        
+        if( typeof countrydata[ countryname ] != 'undefined'){
+          $("#chartdiv1").html('<h1>Carbon Emission Metrics</h1><p>Percentage change in Carbon Emissions And Other Key Statistics Since 1970</p><svg id="chart1"></svg>');
+          var countrychartdata = new Array();
+          countrychartdata.push( { "key": "Carbon Emissions Per USD of GDP (PPP)", values: countrydata[ countryname ]['Carbon_GDP'] } );
+          countrychartdata.push( { "key": "Carbon Emissions Per Capita", values: countrydata[ countryname ]['Carbon_PC'] } );
+          countrychartdata.push( { "key": "Population", values: countrydata[ countryname ]['Population'] } );
+          countrychartdata.push( { "key": "GDP Per Capita", values: countrydata[ countryname ]['GDP_PC'] } );
+          console.log( countrychartdata );
+          nv.addGraph(function() {
+            var chart = nv.models.multiBarChart().forceY([0,100]).color(d3.scale.category10().range()) ;
+        
+            chart.xAxis.axisLabel('Year')
+                .tickFormat(d3.format('f'));
+        
+            chart.yAxis.axisLabel('Percentage Change Since 1970 (%)')
+                .tickFormat(d3.format('f'));
+        
+            d3.select('#chart1')
+                .datum( countrychartdata)
+              .transition().duration(500).call(chart);
+        
+            nv.utils.windowResize(chart.update);
+        
+            return chart;
+          });
+        }
+
+
+        if( typeof stackeddata[ countryname ] != 'undefined'){
+            $("#chartdiv2").html('<h1>Carbon Emission Breakdown</h1><p>Carbon Emissions Over Time Split By Source of Emission</p><svg id="chart2"></svg>');
+              nv.addGraph(function() {
+
+                  var chart = nv.models.cumulativeLineChart()
+                                .x(function(d) { return d[0] })
+                                .y(function(d) { return d[1]/100 }) //adjusting, 100% is 1.00, not 100 as it is in the data
+                                .color(d3.scale.category10().range());
+
+                  chart.xAxis.axisLabel('Year')
+                      .tickFormat();
+
+                  chart.yAxis.axisLabel('Percentage Change')
+                      .tickFormat(d3.format(',.1%'));
+
+                              var countrychartdata = new Array(
+                                { "key": "oil", values: stackeddata[ countryname ][ 'oil' ] },
+                                { "key": "coal", values: stackeddata[ countryname ][ 'coal' ] },
+                                { "key": "natural_gas", values: stackeddata[ countryname ][ 'natural_gas' ] },
+                                { "key": "total_carbon", values: stackeddata[ countryname ][ 'total_carbon' ] }
+                              );
+
+                  d3.select('#chart2')
+                      .datum(countrychartdata)
+                    .transition().duration(500)
+                      .call(chart);
+
+                  nv.utils.windowResize(chart.update);
+
+                  return chart;
+
+              });
+
+        }
+      
+}
+  </script>
+

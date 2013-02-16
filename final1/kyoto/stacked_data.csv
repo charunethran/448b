@@ -1,0 +1,2081 @@
+country,series,x,y
+United States of America,total_carbon,1971,4291
+United States of America,total_carbon,1972,4532
+United States of America,total_carbon,1973,4698
+United States of America,total_carbon,1974,4548
+United States of America,total_carbon,1975,4361
+United States of America,total_carbon,1976,4628
+United States of America,total_carbon,1977,4817
+United States of America,total_carbon,1978,4834
+United States of America,total_carbon,1979,4869
+United States of America,total_carbon,1980,4662
+United States of America,total_carbon,1981,4596
+United States of America,total_carbon,1982,4365
+United States of America,total_carbon,1983,4335
+United States of America,total_carbon,1984,4522
+United States of America,total_carbon,1985,4546
+United States of America,total_carbon,1986,4522
+United States of America,total_carbon,1987,4669
+United States of America,total_carbon,1988,4879
+United States of America,total_carbon,1989,4937
+United States of America,total_carbon,1990,4869
+United States of America,total_carbon,1991,4835
+United States of America,total_carbon,1992,4890
+United States of America,total_carbon,1993,5007
+United States of America,total_carbon,1994,5088
+United States of America,total_carbon,1995,5139
+United States of America,total_carbon,1996,5304
+United States of America,total_carbon,1997,5482
+United States of America,total_carbon,1998,5479
+United States of America,total_carbon,1999,5506
+United States of America,total_carbon,2000,5698
+United States of America,total_carbon,2001,5678
+United States of America,total_carbon,2002,5605
+United States of America,total_carbon,2003,5680
+United States of America,total_carbon,2004,5764
+United States of America,total_carbon,2005,5772
+United States of America,total_carbon,2006,5685
+United States of America,total_carbon,2007,5763
+United States of America,total_carbon,2008,5587
+United States of America,total_carbon,2009,5185
+United States of America,total_carbon,2010,5369
+United States of America,coal,1971,1079
+United States of America,coal,1972,1143
+United States of America,coal,1973,1210
+United States of America,coal,1974,1203
+United States of America,coal,1975,1196
+United States of America,coal,1976,1274
+United States of America,coal,1977,1323
+United States of America,coal,1978,1308
+United States of America,coal,1979,1387
+United States of America,coal,1980,1401
+United States of America,coal,1981,1480
+United States of America,coal,1982,1416
+United States of America,coal,1983,1491
+United States of America,coal,1984,1575
+United States of America,coal,1985,1626
+United States of America,coal,1986,1591
+United States of America,coal,1987,1662
+United States of America,coal,1988,1743
+United States of America,coal,1989,1758
+United States of America,coal,1990,1797
+United States of America,coal,1991,1784
+United States of America,coal,1992,1788
+United States of America,coal,1993,1837
+United States of America,coal,1994,1842
+United States of America,coal,1995,1896
+United States of America,coal,1996,1972
+United States of America,coal,1997,2058
+United States of America,coal,1998,2038
+United States of America,coal,1999,2021
+United States of America,coal,2000,2125
+United States of America,coal,2001,2127
+United States of America,coal,2002,2041
+United States of America,coal,2003,2078
+United States of America,coal,2004,2103
+United States of America,coal,2005,2124
+United States of America,coal,2006,2093
+United States of America,coal,2007,2118
+United States of America,coal,2008,2086
+United States of America,coal,2009,1832
+United States of America,coal,2010,1941
+United States of America,oil,1971,2023
+United States of America,oil,1972,2188
+United States of America,oil,1973,2295
+United States of America,oil,1974,2194
+United States of America,oil,1975,2108
+United States of America,oil,1976,2277
+United States of America,oil,1977,2439
+United States of America,oil,1978,2467
+United States of America,oil,1979,2388
+United States of America,oil,1980,2181
+United States of America,oil,1981,2061
+United States of America,oil,1982,1970
+United States of America,oil,1983,1925
+United States of America,oil,1984,1967
+United States of America,oil,1985,1976
+United States of America,oil,1986,2046
+United States of America,oil,1987,2071
+United States of America,oil,1988,2154
+United States of America,oil,1989,2152
+United States of America,oil,1990,2042
+United States of America,oil,1991,1996
+United States of America,oil,1992,2015
+United States of America,oil,1993,2048
+United States of America,oil,1994,2098
+United States of America,oil,1995,2054
+United States of America,oil,1996,2121
+United States of America,oil,1997,2172
+United States of America,oil,1998,2210
+United States of America,oil,1999,2244
+United States of America,oil,2000,2281
+United States of America,oil,2001,2319
+United States of America,oil,2002,2292
+United States of America,oil,2003,2365
+United States of America,oil,2004,2427
+United States of America,oil,2005,2433
+United States of America,oil,2006,2389
+United States of America,oil,2007,2363
+United States of America,oil,2008,2216
+United States of America,oil,2009,2091
+United States of America,oil,2010,2117
+United States of America,natural_gas,1971,1190
+United States of America,natural_gas,1972,1202
+United States of America,natural_gas,1973,1192
+United States of America,natural_gas,1974,1151
+United States of America,natural_gas,1975,1056
+United States of America,natural_gas,1976,1077
+United States of America,natural_gas,1977,1055
+United States of America,natural_gas,1978,1059
+United States of America,natural_gas,1979,1094
+United States of America,natural_gas,1980,1080
+United States of America,natural_gas,1981,1055
+United States of America,natural_gas,1982,980
+United States of America,natural_gas,1983,919
+United States of America,natural_gas,1984,980
+United States of America,natural_gas,1985,944
+United States of America,natural_gas,1986,885
+United States of America,natural_gas,1987,936
+United States of America,natural_gas,1988,983
+United States of America,natural_gas,1989,1027
+United States of America,natural_gas,1990,1011
+United States of America,natural_gas,1991,1029
+United States of America,natural_gas,1992,1057
+United States of America,natural_gas,1993,1093
+United States of America,natural_gas,1994,1116
+United States of America,natural_gas,1995,1160
+United States of America,natural_gas,1996,1184
+United States of America,natural_gas,1997,1223
+United States of America,natural_gas,1998,1203
+United States of America,natural_gas,1999,1208
+United States of America,natural_gas,2000,1255
+United States of America,natural_gas,2001,1200
+United States of America,natural_gas,2002,1239
+United States of America,natural_gas,2003,1205
+United States of America,natural_gas,2004,1207
+United States of America,natural_gas,2005,1190
+United States of America,natural_gas,2006,1175
+United States of America,natural_gas,2007,1253
+United States of America,natural_gas,2008,1260
+United States of America,natural_gas,2009,1235
+United States of America,natural_gas,2010,1282
+China,total_carbon,1971,810
+China,total_carbon,1972,862
+China,total_carbon,1973,896
+China,total_carbon,1974,915
+China,total_carbon,1975,1062
+China,total_carbon,1976,1105
+China,total_carbon,1977,1250
+China,total_carbon,1978,1410
+China,total_carbon,1979,1431
+China,total_carbon,1980,1420
+China,total_carbon,1981,1407
+China,total_carbon,1982,1466
+China,total_carbon,1983,1541
+China,total_carbon,1984,1679
+China,total_carbon,1985,1727
+China,total_carbon,1986,1831
+China,total_carbon,1987,1969
+China,total_carbon,1988,2118
+China,total_carbon,1989,2199
+China,total_carbon,1990,2244
+China,total_carbon,1991,2361
+China,total_carbon,1992,2469
+China,total_carbon,1993,2670
+China,total_carbon,1994,2781
+China,total_carbon,1995,3022
+China,total_carbon,1996,3196
+China,total_carbon,1997,3133
+China,total_carbon,1998,3197
+China,total_carbon,1999,3091
+China,total_carbon,2000,3077
+China,total_carbon,2001,3124
+China,total_carbon,2002,3348
+China,total_carbon,2003,3870
+China,total_carbon,2004,4593
+China,total_carbon,2005,5103
+China,total_carbon,2006,5645
+China,total_carbon,2007,6072
+China,total_carbon,2008,6549
+China,total_carbon,2009,6846
+China,total_carbon,2010,7259
+China,coal,1971,678
+China,coal,1972,710
+China,coal,1973,722
+China,coal,1974,715
+China,coal,1975,838
+China,coal,1976,842
+China,coal,1977,964
+China,coal,1978,1097
+China,coal,1979,1123
+China,coal,1980,1125
+China,coal,1981,1129
+China,coal,1982,1194
+China,coal,1983,1266
+China,coal,1984,1398
+China,coal,1985,1448
+China,coal,1986,1530
+China,coal,1987,1655
+China,coal,1988,1782
+China,coal,1989,1854
+China,coal,1990,1914
+China,coal,1991,2003
+China,coal,1992,2087
+China,coal,1993,2239
+China,coal,1994,2353
+China,coal,1995,2563
+China,coal,1996,2702
+China,coal,1997,2602
+China,coal,1998,2641
+China,coal,1999,2494
+China,coal,2000,2451
+China,coal,2001,2481
+China,coal,2002,2664
+China,coal,2003,3121
+China,coal,2004,3726
+China,coal,2005,4197
+China,coal,2006,4666
+China,coal,2007,5033
+China,coal,2008,5460
+China,coal,2009,5720
+China,coal,2010,6014
+China,oil,1971,124
+China,oil,1972,142
+China,oil,1973,163
+China,oil,1974,186
+China,oil,1975,207
+China,oil,1976,243
+China,oil,1977,262
+China,oil,1978,287
+China,oil,1979,280
+China,oil,1980,267
+China,oil,1981,254
+China,oil,1982,248
+China,oil,1983,250
+China,oil,1984,256
+China,oil,1985,257
+China,oil,1986,278
+China,oil,1987,290
+China,oil,1988,311
+China,oil,1989,319
+China,oil,1990,305
+China,oil,1991,330
+China,oil,1992,354
+China,oil,1993,401
+China,oil,1994,398
+China,oil,1995,427
+China,oil,1996,458
+China,oil,1997,489
+China,oil,1998,515
+China,oil,1999,553
+China,oil,2000,577
+China,oil,2001,589
+China,oil,2002,626
+China,oil,2003,685
+China,oil,2004,791
+China,oil,2005,818
+China,oil,2006,872
+China,oil,2007,906
+China,oil,2008,935
+China,oil,2009,958
+China,oil,2010,1026
+China,natural_gas,1971,7
+China,natural_gas,1972,9
+China,natural_gas,1973,12
+China,natural_gas,1974,15
+China,natural_gas,1975,17
+China,natural_gas,1976,20
+China,natural_gas,1977,24
+China,natural_gas,1978,27
+China,natural_gas,1979,28
+China,natural_gas,1980,28
+China,natural_gas,1981,25
+China,natural_gas,1982,24
+China,natural_gas,1983,24
+China,natural_gas,1984,25
+China,natural_gas,1985,22
+China,natural_gas,1986,24
+China,natural_gas,1987,24
+China,natural_gas,1988,25
+China,natural_gas,1989,26
+China,natural_gas,1990,26
+China,natural_gas,1991,27
+China,natural_gas,1992,27
+China,natural_gas,1993,30
+China,natural_gas,1994,30
+China,natural_gas,1995,32
+China,natural_gas,1996,35
+China,natural_gas,1997,41
+China,natural_gas,1998,41
+China,natural_gas,1999,44
+China,natural_gas,2000,49
+China,natural_gas,2001,54
+China,natural_gas,2002,57
+China,natural_gas,2003,64
+China,natural_gas,2004,76
+China,natural_gas,2005,88
+China,natural_gas,2006,106
+China,natural_gas,2007,134
+China,natural_gas,2008,154
+China,natural_gas,2009,169
+China,natural_gas,2010,201
+India,total_carbon,1971,200
+India,total_carbon,1972,208
+India,total_carbon,1973,208
+India,total_carbon,1974,226
+India,total_carbon,1975,241
+India,total_carbon,1976,258
+India,total_carbon,1977,263
+India,total_carbon,1978,249
+India,total_carbon,1979,270
+India,total_carbon,1980,283
+India,total_carbon,1981,315
+India,total_carbon,1982,338
+India,total_carbon,1983,361
+India,total_carbon,1984,392
+India,total_carbon,1985,411
+India,total_carbon,1986,450
+India,total_carbon,1987,482
+India,total_carbon,1988,512
+India,total_carbon,1989,549
+India,total_carbon,1990,582
+India,total_carbon,1991,624
+India,total_carbon,1992,655
+India,total_carbon,1993,680
+India,total_carbon,1994,718
+India,total_carbon,1995,777
+India,total_carbon,1996,818
+India,total_carbon,1997,862
+India,total_carbon,1998,872
+India,total_carbon,1999,939
+India,total_carbon,2000,972
+India,total_carbon,2001,984
+India,total_carbon,2002,1015
+India,total_carbon,2003,1041
+India,total_carbon,2004,1117
+India,total_carbon,2005,1165
+India,total_carbon,2006,1256
+India,total_carbon,2007,1362
+India,total_carbon,2008,1439
+India,total_carbon,2009,1564
+India,total_carbon,2010,1626
+India,coal,1971,143
+India,coal,1972,146
+India,coal,1973,144
+India,coal,1974,162
+India,coal,1975,176
+India,coal,1976,190
+India,coal,1977,190
+India,coal,1978,169
+India,coal,1979,185
+India,coal,1980,195
+India,coal,1981,220
+India,coal,1982,236
+India,coal,1983,252
+India,coal,1984,274
+India,coal,1985,284
+India,coal,1986,311
+India,coal,1987,333
+India,coal,1988,351
+India,coal,1989,373
+India,coal,1990,396
+India,coal,1991,428
+India,coal,1992,450
+India,coal,1993,469
+India,coal,1994,489
+India,coal,1995,517
+India,coal,1996,543
+India,coal,1997,569
+India,coal,1998,566
+India,coal,1999,605
+India,coal,2000,624
+India,coal,2001,642
+India,coal,2002,658
+India,coal,2003,674
+India,coal,2004,742
+India,coal,2005,787
+India,coal,2006,849
+India,coal,2007,930
+India,coal,2008,985
+India,coal,2009,1074
+India,coal,2010,1097
+India,oil,1971,56
+India,oil,1972,61
+India,oil,1973,62
+India,oil,1974,62
+India,oil,1975,63
+India,oil,1976,66
+India,oil,1977,70
+India,oil,1978,77
+India,oil,1979,83
+India,oil,1980,85
+India,oil,1981,91
+India,oil,1982,98
+India,oil,1983,103
+India,oil,1984,111
+India,oil,1985,119
+India,oil,1986,127
+India,oil,1987,136
+India,oil,1988,146
+India,oil,1989,159
+India,oil,1990,166
+India,oil,1991,172
+India,oil,1992,178
+India,oil,1993,184
+India,oil,1994,200
+India,oil,1995,224
+India,oil,1996,239
+India,oil,1997,251
+India,oil,1998,262
+India,oil,1999,287
+India,oil,2000,302
+India,oil,2001,294
+India,oil,2002,304
+India,oil,2003,313
+India,oil,2004,315
+India,oil,2005,310
+India,oil,2006,336
+India,oil,2007,356
+India,oil,2008,377
+India,oil,2009,385
+India,oil,2010,416
+India,natural_gas,1971,1
+India,natural_gas,1972,1
+India,natural_gas,1973,1
+India,natural_gas,1974,2
+India,natural_gas,1975,2
+India,natural_gas,1976,2
+India,natural_gas,1977,2
+India,natural_gas,1978,3
+India,natural_gas,1979,3
+India,natural_gas,1980,3
+India,natural_gas,1981,4
+India,natural_gas,1982,5
+India,natural_gas,1983,6
+India,natural_gas,1984,7
+India,natural_gas,1985,8
+India,natural_gas,1986,12
+India,natural_gas,1987,13
+India,natural_gas,1988,14
+India,natural_gas,1989,17
+India,natural_gas,1990,21
+India,natural_gas,1991,24
+India,natural_gas,1992,26
+India,natural_gas,1993,27
+India,natural_gas,1994,29
+India,natural_gas,1995,35
+India,natural_gas,1996,36
+India,natural_gas,1997,41
+India,natural_gas,1998,44
+India,natural_gas,1999,47
+India,natural_gas,2000,47
+India,natural_gas,2001,48
+India,natural_gas,2002,52
+India,natural_gas,2003,54
+India,natural_gas,2004,60
+India,natural_gas,2005,68
+India,natural_gas,2006,72
+India,natural_gas,2007,76
+India,natural_gas,2008,76
+India,natural_gas,2009,105
+India,natural_gas,2010,113
+Russia,total_carbon,1971,0
+Russia,total_carbon,1972,0
+Russia,total_carbon,1973,0
+Russia,total_carbon,1974,0
+Russia,total_carbon,1975,0
+Russia,total_carbon,1976,0
+Russia,total_carbon,1977,0
+Russia,total_carbon,1978,0
+Russia,total_carbon,1979,0
+Russia,total_carbon,1980,0
+Russia,total_carbon,1981,0
+Russia,total_carbon,1982,0
+Russia,total_carbon,1983,0
+Russia,total_carbon,1984,0
+Russia,total_carbon,1985,0
+Russia,total_carbon,1986,0
+Russia,total_carbon,1987,0
+Russia,total_carbon,1988,0
+Russia,total_carbon,1989,0
+Russia,total_carbon,1990,2179
+Russia,total_carbon,1991,2168
+Russia,total_carbon,1992,1990
+Russia,total_carbon,1993,1828
+Russia,total_carbon,1994,1612
+Russia,total_carbon,1995,1575
+Russia,total_carbon,1996,1546
+Russia,total_carbon,1997,1435
+Russia,total_carbon,1998,1433
+Russia,total_carbon,1999,1468
+Russia,total_carbon,2000,1506
+Russia,total_carbon,2001,1508
+Russia,total_carbon,2002,1494
+Russia,total_carbon,2003,1531
+Russia,total_carbon,2004,1513
+Russia,total_carbon,2005,1516
+Russia,total_carbon,2006,1580
+Russia,total_carbon,2007,1579
+Russia,total_carbon,2008,1593
+Russia,total_carbon,2009,1520
+Russia,total_carbon,2010,1581
+Russia,coal,1971,0
+Russia,coal,1972,0
+Russia,coal,1973,0
+Russia,coal,1974,0
+Russia,coal,1975,0
+Russia,coal,1976,0
+Russia,coal,1977,0
+Russia,coal,1978,0
+Russia,coal,1979,0
+Russia,coal,1980,0
+Russia,coal,1981,0
+Russia,coal,1982,0
+Russia,coal,1983,0
+Russia,coal,1984,0
+Russia,coal,1985,0
+Russia,coal,1986,0
+Russia,coal,1987,0
+Russia,coal,1988,0
+Russia,coal,1989,0
+Russia,coal,1990,687
+Russia,coal,1991,640
+Russia,coal,1992,570
+Russia,coal,1993,502
+Russia,coal,1994,458
+Russia,coal,1995,484
+Russia,coal,1996,485
+Russia,coal,1997,410
+Russia,coal,1998,404
+Russia,coal,1999,425
+Russia,coal,2000,441
+Russia,coal,2001,439
+Russia,coal,2002,428
+Russia,coal,2003,432
+Russia,coal,2004,407
+Russia,coal,2005,407
+Russia,coal,2006,437
+Russia,coal,2007,419
+Russia,coal,2008,422
+Russia,coal,2009,405
+Russia,coal,2010,397
+Russia,oil,1971,0
+Russia,oil,1972,0
+Russia,oil,1973,0
+Russia,oil,1974,0
+Russia,oil,1975,0
+Russia,oil,1976,0
+Russia,oil,1977,0
+Russia,oil,1978,0
+Russia,oil,1979,0
+Russia,oil,1980,0
+Russia,oil,1981,0
+Russia,oil,1982,0
+Russia,oil,1983,0
+Russia,oil,1984,0
+Russia,oil,1985,0
+Russia,oil,1986,0
+Russia,oil,1987,0
+Russia,oil,1988,0
+Russia,oil,1989,0
+Russia,oil,1990,625
+Russia,oil,1991,630
+Russia,oil,1992,557
+Russia,oil,1993,492
+Russia,oil,1994,379
+Russia,oil,1995,351
+Russia,oil,1996,331
+Russia,oil,1997,320
+Russia,oil,1998,324
+Russia,oil,1999,322
+Russia,oil,2000,332
+Russia,oil,2001,330
+Russia,oil,2002,320
+Russia,oil,2003,320
+Russia,oil,2004,317
+Russia,oil,2005,310
+Russia,oil,2006,321
+Russia,oil,2007,326
+Russia,oil,2008,336
+Russia,oil,2009,315
+Russia,oil,2010,315
+Russia,natural_gas,1971,0
+Russia,natural_gas,1972,0
+Russia,natural_gas,1973,0
+Russia,natural_gas,1974,0
+Russia,natural_gas,1975,0
+Russia,natural_gas,1976,0
+Russia,natural_gas,1977,0
+Russia,natural_gas,1978,0
+Russia,natural_gas,1979,0
+Russia,natural_gas,1980,0
+Russia,natural_gas,1981,0
+Russia,natural_gas,1982,0
+Russia,natural_gas,1983,0
+Russia,natural_gas,1984,0
+Russia,natural_gas,1985,0
+Russia,natural_gas,1986,0
+Russia,natural_gas,1987,0
+Russia,natural_gas,1988,0
+Russia,natural_gas,1989,0
+Russia,natural_gas,1990,866
+Russia,natural_gas,1991,899
+Russia,natural_gas,1992,855
+Russia,natural_gas,1993,827
+Russia,natural_gas,1994,767
+Russia,natural_gas,1995,729
+Russia,natural_gas,1996,723
+Russia,natural_gas,1997,696
+Russia,natural_gas,1998,695
+Russia,natural_gas,1999,708
+Russia,natural_gas,2000,718
+Russia,natural_gas,2001,725
+Russia,natural_gas,2002,731
+Russia,natural_gas,2003,766
+Russia,natural_gas,2004,772
+Russia,natural_gas,2005,783
+Russia,natural_gas,2006,804
+Russia,natural_gas,2007,821
+Russia,natural_gas,2008,821
+Russia,natural_gas,2009,785
+Russia,natural_gas,2010,852
+Brazil,total_carbon,1971,91
+Brazil,total_carbon,1972,99
+Brazil,total_carbon,1973,117
+Brazil,total_carbon,1974,129
+Brazil,total_carbon,1975,137
+Brazil,total_carbon,1976,151
+Brazil,total_carbon,1977,157
+Brazil,total_carbon,1978,172
+Brazil,total_carbon,1979,184
+Brazil,total_carbon,1980,180
+Brazil,total_carbon,1981,166
+Brazil,total_carbon,1982,168
+Brazil,total_carbon,1983,160
+Brazil,total_carbon,1984,161
+Brazil,total_carbon,1985,168
+Brazil,total_carbon,1986,186
+Brazil,total_carbon,1987,191
+Brazil,total_carbon,1988,195
+Brazil,total_carbon,1989,199
+Brazil,total_carbon,1990,194
+Brazil,total_carbon,1991,202
+Brazil,total_carbon,1992,206
+Brazil,total_carbon,1993,214
+Brazil,total_carbon,1994,224
+Brazil,total_carbon,1995,240
+Brazil,total_carbon,1996,259
+Brazil,total_carbon,1997,276
+Brazil,total_carbon,1998,283
+Brazil,total_carbon,1999,293
+Brazil,total_carbon,2000,304
+Brazil,total_carbon,2001,309
+Brazil,total_carbon,2002,309
+Brazil,total_carbon,2003,303
+Brazil,total_carbon,2004,321
+Brazil,total_carbon,2005,322
+Brazil,total_carbon,2006,328
+Brazil,total_carbon,2007,342
+Brazil,total_carbon,2008,362
+Brazil,total_carbon,2009,338
+Brazil,total_carbon,2010,388
+Brazil,coal,1971,7
+Brazil,coal,1972,7
+Brazil,coal,1973,7
+Brazil,coal,1974,7
+Brazil,coal,1975,8
+Brazil,coal,1976,9
+Brazil,coal,1977,12
+Brazil,coal,1978,15
+Brazil,coal,1979,16
+Brazil,coal,1980,17
+Brazil,coal,1981,18
+Brazil,coal,1982,20
+Brazil,coal,1983,22
+Brazil,coal,1984,26
+Brazil,coal,1985,29
+Brazil,coal,1986,31
+Brazil,coal,1987,33
+Brazil,coal,1988,34
+Brazil,coal,1989,34
+Brazil,coal,1990,29
+Brazil,coal,1991,34
+Brazil,coal,1992,33
+Brazil,coal,1993,34
+Brazil,coal,1994,35
+Brazil,coal,1995,36
+Brazil,coal,1996,38
+Brazil,coal,1997,39
+Brazil,coal,1998,38
+Brazil,coal,1999,40
+Brazil,coal,2000,45
+Brazil,coal,2001,44
+Brazil,coal,2002,43
+Brazil,coal,2003,45
+Brazil,coal,2004,47
+Brazil,coal,2005,44
+Brazil,coal,2006,44
+Brazil,coal,2007,47
+Brazil,coal,2008,47
+Brazil,coal,2009,39
+Brazil,coal,2010,52
+Brazil,oil,1971,84
+Brazil,oil,1972,92
+Brazil,oil,1973,109
+Brazil,oil,1974,121
+Brazil,oil,1975,128
+Brazil,oil,1976,141
+Brazil,oil,1977,143
+Brazil,oil,1978,155
+Brazil,oil,1979,166
+Brazil,oil,1980,161
+Brazil,oil,1981,146
+Brazil,oil,1982,145
+Brazil,oil,1983,135
+Brazil,oil,1984,131
+Brazil,oil,1985,134
+Brazil,oil,1986,149
+Brazil,oil,1987,151
+Brazil,oil,1988,155
+Brazil,oil,1989,158
+Brazil,oil,1990,159
+Brazil,oil,1991,161
+Brazil,oil,1992,166
+Brazil,oil,1993,172
+Brazil,oil,1994,180
+Brazil,oil,1995,195
+Brazil,oil,1996,211
+Brazil,oil,1997,226
+Brazil,oil,1998,234
+Brazil,oil,1999,239
+Brazil,oil,2000,241
+Brazil,oil,2001,242
+Brazil,oil,2002,238
+Brazil,oil,2003,229
+Brazil,oil,2004,238
+Brazil,oil,2005,240
+Brazil,oil,2006,244
+Brazil,oil,2007,255
+Brazil,oil,2008,266
+Brazil,oil,2009,261
+Brazil,oil,2010,284
+Brazil,natural_gas,1971,1
+Brazil,natural_gas,1972,1
+Brazil,natural_gas,1973,1
+Brazil,natural_gas,1974,1
+Brazil,natural_gas,1975,1
+Brazil,natural_gas,1976,1
+Brazil,natural_gas,1977,2
+Brazil,natural_gas,1978,2
+Brazil,natural_gas,1979,2
+Brazil,natural_gas,1980,2
+Brazil,natural_gas,1981,2
+Brazil,natural_gas,1982,3
+Brazil,natural_gas,1983,3
+Brazil,natural_gas,1984,4
+Brazil,natural_gas,1985,5
+Brazil,natural_gas,1986,6
+Brazil,natural_gas,1987,6
+Brazil,natural_gas,1988,7
+Brazil,natural_gas,1989,7
+Brazil,natural_gas,1990,7
+Brazil,natural_gas,1991,7
+Brazil,natural_gas,1992,7
+Brazil,natural_gas,1993,8
+Brazil,natural_gas,1994,8
+Brazil,natural_gas,1995,9
+Brazil,natural_gas,1996,10
+Brazil,natural_gas,1997,11
+Brazil,natural_gas,1998,12
+Brazil,natural_gas,1999,13
+Brazil,natural_gas,2000,17
+Brazil,natural_gas,2001,22
+Brazil,natural_gas,2002,28
+Brazil,natural_gas,2003,29
+Brazil,natural_gas,2004,35
+Brazil,natural_gas,2005,38
+Brazil,natural_gas,2006,39
+Brazil,natural_gas,2007,41
+Brazil,natural_gas,2008,49
+Brazil,natural_gas,2009,39
+Brazil,natural_gas,2010,52
+South Africa,total_carbon,1971,157
+South Africa,total_carbon,1972,162
+South Africa,total_carbon,1973,178
+South Africa,total_carbon,1974,184
+South Africa,total_carbon,1975,202
+South Africa,total_carbon,1976,215
+South Africa,total_carbon,1977,217
+South Africa,total_carbon,1978,195
+South Africa,total_carbon,1979,199
+South Africa,total_carbon,1980,209
+South Africa,total_carbon,1981,222
+South Africa,total_carbon,1982,219
+South Africa,total_carbon,1983,213
+South Africa,total_carbon,1984,227
+South Africa,total_carbon,1985,229
+South Africa,total_carbon,1986,226
+South Africa,total_carbon,1987,240
+South Africa,total_carbon,1988,241
+South Africa,total_carbon,1989,248
+South Africa,total_carbon,1990,254
+South Africa,total_carbon,1991,250
+South Africa,total_carbon,1992,245
+South Africa,total_carbon,1993,252
+South Africa,total_carbon,1994,258
+South Africa,total_carbon,1995,274
+South Africa,total_carbon,1996,285
+South Africa,total_carbon,1997,299
+South Africa,total_carbon,1998,306
+South Africa,total_carbon,1999,289
+South Africa,total_carbon,2000,297
+South Africa,total_carbon,2001,282
+South Africa,total_carbon,2002,293
+South Africa,total_carbon,2003,319
+South Africa,total_carbon,2004,336
+South Africa,total_carbon,2005,329
+South Africa,total_carbon,2006,330
+South Africa,total_carbon,2007,355
+South Africa,total_carbon,2008,387
+South Africa,total_carbon,2009,369
+South Africa,total_carbon,2010,347
+South Africa,coal,1971,129
+South Africa,coal,1972,133
+South Africa,coal,1973,145
+South Africa,coal,1974,152
+South Africa,coal,1975,167
+South Africa,coal,1976,180
+South Africa,coal,1977,181
+South Africa,coal,1978,158
+South Africa,coal,1979,164
+South Africa,coal,1980,174
+South Africa,coal,1981,184
+South Africa,coal,1982,181
+South Africa,coal,1983,175
+South Africa,coal,1984,186
+South Africa,coal,1985,189
+South Africa,coal,1986,187
+South Africa,coal,1987,199
+South Africa,coal,1988,197
+South Africa,coal,1989,202
+South Africa,coal,1990,207
+South Africa,coal,1991,204
+South Africa,coal,1992,200
+South Africa,coal,1993,210
+South Africa,coal,1994,213
+South Africa,coal,1995,226
+South Africa,coal,1996,236
+South Africa,coal,1997,249
+South Africa,coal,1998,256
+South Africa,coal,1999,240
+South Africa,coal,2000,248
+South Africa,coal,2001,232
+South Africa,coal,2002,242
+South Africa,coal,2003,265
+South Africa,coal,2004,279
+South Africa,coal,2005,270
+South Africa,coal,2006,271
+South Africa,coal,2007,285
+South Africa,coal,2008,313
+South Africa,coal,2009,296
+South Africa,coal,2010,291
+South Africa,oil,1971,28
+South Africa,oil,1972,30
+South Africa,oil,1973,33
+South Africa,oil,1974,32
+South Africa,oil,1975,34
+South Africa,oil,1976,35
+South Africa,oil,1977,36
+South Africa,oil,1978,37
+South Africa,oil,1979,34
+South Africa,oil,1980,35
+South Africa,oil,1981,37
+South Africa,oil,1982,38
+South Africa,oil,1983,39
+South Africa,oil,1984,41
+South Africa,oil,1985,40
+South Africa,oil,1986,39
+South Africa,oil,1987,41
+South Africa,oil,1988,44
+South Africa,oil,1989,45
+South Africa,oil,1990,46
+South Africa,oil,1991,46
+South Africa,oil,1992,46
+South Africa,oil,1993,42
+South Africa,oil,1994,44
+South Africa,oil,1995,49
+South Africa,oil,1996,49
+South Africa,oil,1997,50
+South Africa,oil,1998,50
+South Africa,oil,1999,50
+South Africa,oil,2000,49
+South Africa,oil,2001,50
+South Africa,oil,2002,52
+South Africa,oil,2003,54
+South Africa,oil,2004,57
+South Africa,oil,2005,59
+South Africa,oil,2006,58
+South Africa,oil,2007,70
+South Africa,oil,2008,75
+South Africa,oil,2009,72
+South Africa,oil,2010,56
+South Africa,natural_gas,1971,0
+South Africa,natural_gas,1972,0
+South Africa,natural_gas,1973,0
+South Africa,natural_gas,1974,0
+South Africa,natural_gas,1975,0
+South Africa,natural_gas,1976,0
+South Africa,natural_gas,1977,0
+South Africa,natural_gas,1978,0
+South Africa,natural_gas,1979,0
+South Africa,natural_gas,1980,0
+South Africa,natural_gas,1981,0
+South Africa,natural_gas,1982,0
+South Africa,natural_gas,1983,0
+South Africa,natural_gas,1984,0
+South Africa,natural_gas,1985,0
+South Africa,natural_gas,1986,0
+South Africa,natural_gas,1987,0
+South Africa,natural_gas,1988,0
+South Africa,natural_gas,1989,0
+South Africa,natural_gas,1990,0
+South Africa,natural_gas,1991,0
+South Africa,natural_gas,1992,0
+South Africa,natural_gas,1993,0
+South Africa,natural_gas,1994,0
+South Africa,natural_gas,1995,0
+South Africa,natural_gas,1996,0
+South Africa,natural_gas,1997,0
+South Africa,natural_gas,1998,0
+South Africa,natural_gas,1999,0
+South Africa,natural_gas,2000,0
+South Africa,natural_gas,2001,0
+South Africa,natural_gas,2002,0
+South Africa,natural_gas,2003,0
+South Africa,natural_gas,2004,0
+South Africa,natural_gas,2005,0
+South Africa,natural_gas,2006,0
+South Africa,natural_gas,2007,0
+South Africa,natural_gas,2008,0
+South Africa,natural_gas,2009,0
+South Africa,natural_gas,2010,0
+Canada,total_carbon,1971,340
+Canada,total_carbon,1972,357
+Canada,total_carbon,1973,375
+Canada,total_carbon,1974,386
+Canada,total_carbon,1975,377
+Canada,total_carbon,1976,392
+Canada,total_carbon,1977,405
+Canada,total_carbon,1978,408
+Canada,total_carbon,1979,422
+Canada,total_carbon,1980,427
+Canada,total_carbon,1981,411
+Canada,total_carbon,1982,393
+Canada,total_carbon,1983,385
+Canada,total_carbon,1984,402
+Canada,total_carbon,1985,402
+Canada,total_carbon,1986,394
+Canada,total_carbon,1987,406
+Canada,total_carbon,1988,436
+Canada,total_carbon,1989,452
+Canada,total_carbon,1990,433
+Canada,total_carbon,1991,427
+Canada,total_carbon,1992,440
+Canada,total_carbon,1993,439
+Canada,total_carbon,1994,455
+Canada,total_carbon,1995,466
+Canada,total_carbon,1996,481
+Canada,total_carbon,1997,498
+Canada,total_carbon,1998,501
+Canada,total_carbon,1999,511
+Canada,total_carbon,2000,533
+Canada,total_carbon,2001,526
+Canada,total_carbon,2002,533
+Canada,total_carbon,2003,557
+Canada,total_carbon,2004,554
+Canada,total_carbon,2005,559
+Canada,total_carbon,2006,544
+Canada,total_carbon,2007,569
+Canada,total_carbon,2008,551
+Canada,total_carbon,2009,525
+Canada,total_carbon,2010,537
+Canada,coal,1971,62
+Canada,coal,1972,57
+Canada,coal,1973,58
+Canada,coal,1974,57
+Canada,coal,1975,57
+Canada,coal,1976,63
+Canada,coal,1977,67
+Canada,coal,1978,69
+Canada,coal,1979,74
+Canada,coal,1980,81
+Canada,coal,1981,82
+Canada,coal,1982,88
+Canada,coal,1983,93
+Canada,coal,1984,103
+Canada,coal,1985,100
+Canada,coal,1986,92
+Canada,coal,1987,99
+Canada,coal,1988,107
+Canada,coal,1989,108
+Canada,coal,1990,99
+Canada,coal,1991,104
+Canada,coal,1992,107
+Canada,coal,1993,99
+Canada,coal,1994,102
+Canada,coal,1995,104
+Canada,coal,1996,106
+Canada,coal,1997,112
+Canada,coal,1998,117
+Canada,coal,1999,118
+Canada,coal,2000,128
+Canada,coal,2001,125
+Canada,coal,2002,121
+Canada,coal,2003,120
+Canada,coal,2004,115
+Canada,coal,2005,116
+Canada,coal,2006,117
+Canada,coal,2007,117
+Canada,coal,2008,107
+Canada,coal,2009,96
+Canada,coal,2010,96
+Canada,oil,1971,210
+Canada,oil,1972,223
+Canada,oil,1973,235
+Canada,oil,1974,243
+Canada,oil,1975,233
+Canada,oil,1976,238
+Canada,oil,1977,241
+Canada,oil,1978,245
+Canada,oil,1979,251
+Canada,oil,1980,247
+Canada,oil,1981,231
+Canada,oil,1982,206
+Canada,oil,1983,193
+Canada,oil,1984,193
+Canada,oil,1985,189
+Canada,oil,1986,190
+Canada,oil,1987,196
+Canada,oil,1988,206
+Canada,oil,1989,217
+Canada,oil,1990,209
+Canada,oil,1991,198
+Canada,oil,1992,202
+Canada,oil,1993,204
+Canada,oil,1994,208
+Canada,oil,1995,212
+Canada,oil,1996,218
+Canada,oil,1997,228
+Canada,oil,1998,231
+Canada,oil,1999,234
+Canada,oil,2000,237
+Canada,oil,2001,240
+Canada,oil,2002,243
+Canada,oil,2003,260
+Canada,oil,2004,267
+Canada,oil,2005,272
+Canada,oil,2006,259
+Canada,oil,2007,268
+Canada,oil,2008,263
+Canada,oil,2009,254
+Canada,oil,2010,262
+Canada,natural_gas,1971,68
+Canada,natural_gas,1972,78
+Canada,natural_gas,1973,83
+Canada,natural_gas,1974,86
+Canada,natural_gas,1975,87
+Canada,natural_gas,1976,92
+Canada,natural_gas,1977,97
+Canada,natural_gas,1978,94
+Canada,natural_gas,1979,98
+Canada,natural_gas,1980,100
+Canada,natural_gas,1981,97
+Canada,natural_gas,1982,99
+Canada,natural_gas,1983,98
+Canada,natural_gas,1984,106
+Canada,natural_gas,1985,114
+Canada,natural_gas,1986,112
+Canada,natural_gas,1987,111
+Canada,natural_gas,1988,123
+Canada,natural_gas,1989,128
+Canada,natural_gas,1990,124
+Canada,natural_gas,1991,124
+Canada,natural_gas,1992,130
+Canada,natural_gas,1993,136
+Canada,natural_gas,1994,144
+Canada,natural_gas,1995,149
+Canada,natural_gas,1996,156
+Canada,natural_gas,1997,157
+Canada,natural_gas,1998,152
+Canada,natural_gas,1999,160
+Canada,natural_gas,2000,168
+Canada,natural_gas,2001,161
+Canada,natural_gas,2002,168
+Canada,natural_gas,2003,176
+Canada,natural_gas,2004,171
+Canada,natural_gas,2005,170
+Canada,natural_gas,2006,167
+Canada,natural_gas,2007,183
+Canada,natural_gas,2008,180
+Canada,natural_gas,2009,176
+Canada,natural_gas,2010,179
+United Kingdom,total_carbon,1971,623
+United Kingdom,total_carbon,1972,606
+United Kingdom,total_carbon,1973,637
+United Kingdom,total_carbon,1974,599
+United Kingdom,total_carbon,1975,579
+United Kingdom,total_carbon,1976,585
+United Kingdom,total_carbon,1977,595
+United Kingdom,total_carbon,1978,592
+United Kingdom,total_carbon,1979,625
+United Kingdom,total_carbon,1980,571
+United Kingdom,total_carbon,1981,555
+United Kingdom,total_carbon,1982,543
+United Kingdom,total_carbon,1983,534
+United Kingdom,total_carbon,1984,519
+United Kingdom,total_carbon,1985,545
+United Kingdom,total_carbon,1986,559
+United Kingdom,total_carbon,1987,563
+United Kingdom,total_carbon,1988,562
+United Kingdom,total_carbon,1989,551
+United Kingdom,total_carbon,1990,549
+United Kingdom,total_carbon,1991,560
+United Kingdom,total_carbon,1992,549
+United Kingdom,total_carbon,1993,533
+United Kingdom,total_carbon,1994,526
+United Kingdom,total_carbon,1995,517
+United Kingdom,total_carbon,1996,535
+United Kingdom,total_carbon,1997,514
+United Kingdom,total_carbon,1998,519
+United Kingdom,total_carbon,1999,516
+United Kingdom,total_carbon,2000,524
+United Kingdom,total_carbon,2001,537
+United Kingdom,total_carbon,2002,522
+United Kingdom,total_carbon,2003,534
+United Kingdom,total_carbon,2004,535
+United Kingdom,total_carbon,2005,533
+United Kingdom,total_carbon,2006,535
+United Kingdom,total_carbon,2007,523
+United Kingdom,total_carbon,2008,513
+United Kingdom,total_carbon,2009,466
+United Kingdom,total_carbon,2010,484
+United Kingdom,coal,1971,348
+United Kingdom,coal,1972,296
+United Kingdom,coal,1973,314
+United Kingdom,coal,1974,276
+United Kingdom,coal,1975,274
+United Kingdom,coal,1976,276
+United Kingdom,coal,1977,277
+United Kingdom,coal,1978,264
+United Kingdom,coal,1979,288
+United Kingdom,coal,1980,266
+United Kingdom,coal,1981,266
+United Kingdom,coal,1982,249
+United Kingdom,coal,1983,249
+United Kingdom,coal,1984,180
+United Kingdom,coal,1985,237
+United Kingdom,coal,1986,253
+United Kingdom,coal,1987,260
+United Kingdom,coal,1988,252
+United Kingdom,coal,1989,241
+United Kingdom,coal,1990,238
+United Kingdom,coal,1991,239
+United Kingdom,coal,1992,227
+United Kingdom,coal,1993,198
+United Kingdom,coal,1994,186
+United Kingdom,coal,1995,174
+United Kingdom,coal,1996,164
+United Kingdom,coal,1997,146
+United Kingdom,coal,1998,147
+United Kingdom,coal,1999,131
+United Kingdom,coal,2000,139
+United Kingdom,coal,2001,148
+United Kingdom,coal,2002,138
+United Kingdom,coal,2003,148
+United Kingdom,coal,2004,144
+United Kingdom,coal,2005,145
+United Kingdom,coal,2006,159
+United Kingdom,coal,2007,148
+United Kingdom,coal,2008,137
+United Kingdom,coal,2009,114
+United Kingdom,coal,2010,117
+United Kingdom,oil,1971,253
+United Kingdom,oil,1972,274
+United Kingdom,oil,1973,277
+United Kingdom,oil,1974,263
+United Kingdom,oil,1975,238
+United Kingdom,oil,1976,235
+United Kingdom,oil,1977,239
+United Kingdom,oil,1978,243
+United Kingdom,oil,1979,245
+United Kingdom,oil,1980,213
+United Kingdom,oil,1981,195
+United Kingdom,oil,1982,199
+United Kingdom,oil,1983,189
+United Kingdom,oil,1984,241
+United Kingdom,oil,1985,202
+United Kingdom,oil,1986,200
+United Kingdom,oil,1987,193
+United Kingdom,oil,1988,203
+United Kingdom,oil,1989,206
+United Kingdom,oil,1990,205
+United Kingdom,oil,1991,206
+United Kingdom,oil,1992,206
+United Kingdom,oil,1993,205
+United Kingdom,oil,1994,202
+United Kingdom,oil,1995,196
+United Kingdom,oil,1996,202
+United Kingdom,oil,1997,195
+United Kingdom,oil,1998,190
+United Kingdom,oil,1999,191
+United Kingdom,oil,2000,186
+United Kingdom,oil,2001,186
+United Kingdom,oil,2002,184
+United Kingdom,oil,2003,184
+United Kingdom,oil,2004,185
+United Kingdom,oil,2005,188
+United Kingdom,oil,2006,187
+United Kingdom,oil,2007,184
+United Kingdom,oil,2008,180
+United Kingdom,oil,2009,171
+United Kingdom,oil,2010,171
+United Kingdom,natural_gas,1971,22
+United Kingdom,natural_gas,1972,35
+United Kingdom,natural_gas,1973,46
+United Kingdom,natural_gas,1974,60
+United Kingdom,natural_gas,1975,67
+United Kingdom,natural_gas,1976,74
+United Kingdom,natural_gas,1977,79
+United Kingdom,natural_gas,1978,85
+United Kingdom,natural_gas,1979,91
+United Kingdom,natural_gas,1980,92
+United Kingdom,natural_gas,1981,93
+United Kingdom,natural_gas,1982,95
+United Kingdom,natural_gas,1983,97
+United Kingdom,natural_gas,1984,98
+United Kingdom,natural_gas,1985,105
+United Kingdom,natural_gas,1986,106
+United Kingdom,natural_gas,1987,111
+United Kingdom,natural_gas,1988,107
+United Kingdom,natural_gas,1989,104
+United Kingdom,natural_gas,1990,106
+United Kingdom,natural_gas,1991,115
+United Kingdom,natural_gas,1992,116
+United Kingdom,natural_gas,1993,129
+United Kingdom,natural_gas,1994,137
+United Kingdom,natural_gas,1995,145
+United Kingdom,natural_gas,1996,169
+United Kingdom,natural_gas,1997,173
+United Kingdom,natural_gas,1998,181
+United Kingdom,natural_gas,1999,193
+United Kingdom,natural_gas,2000,199
+United Kingdom,natural_gas,2001,201
+United Kingdom,natural_gas,2002,198
+United Kingdom,natural_gas,2003,199
+United Kingdom,natural_gas,2004,203
+United Kingdom,natural_gas,2005,197
+United Kingdom,natural_gas,2006,187
+United Kingdom,natural_gas,2007,189
+United Kingdom,natural_gas,2008,194
+United Kingdom,natural_gas,2009,179
+United Kingdom,natural_gas,2010,194
+Germany,total_carbon,1971,979
+Germany,total_carbon,1972,1003
+Germany,total_carbon,1973,1053
+Germany,total_carbon,1974,1029
+Germany,total_carbon,1975,976
+Germany,total_carbon,1976,1032
+Germany,total_carbon,1977,1017
+Germany,total_carbon,1978,1056
+Germany,total_carbon,1979,1104
+Germany,total_carbon,1980,1056
+Germany,total_carbon,1981,1022
+Germany,total_carbon,1982,982
+Germany,total_carbon,1983,984
+Germany,total_carbon,1984,1006
+Germany,total_carbon,1985,1015
+Germany,total_carbon,1986,1016
+Germany,total_carbon,1987,1007
+Germany,total_carbon,1988,1001
+Germany,total_carbon,1989,977
+Germany,total_carbon,1990,950
+Germany,total_carbon,1991,925
+Germany,total_carbon,1992,887
+Germany,total_carbon,1993,880
+Germany,total_carbon,1994,868
+Germany,total_carbon,1995,868
+Germany,total_carbon,1996,897
+Germany,total_carbon,1997,866
+Germany,total_carbon,1998,859
+Germany,total_carbon,1999,827
+Germany,total_carbon,2000,825
+Germany,total_carbon,2001,843
+Germany,total_carbon,2002,831
+Germany,total_carbon,2003,840
+Germany,total_carbon,2004,841
+Germany,total_carbon,2005,809
+Germany,total_carbon,2006,821
+Germany,total_carbon,2007,796
+Germany,total_carbon,2008,800
+Germany,total_carbon,2009,747
+Germany,total_carbon,2010,762
+Germany,coal,1971,554
+Germany,coal,1972,544
+Germany,coal,1973,551
+Germany,coal,1974,550
+Germany,coal,1975,494
+Germany,coal,1976,526
+Germany,coal,1977,506
+Germany,coal,1978,516
+Germany,coal,1979,547
+Germany,coal,1980,552
+Germany,coal,1981,562
+Germany,coal,1982,549
+Germany,coal,1983,557
+Germany,coal,1984,581
+Germany,coal,1985,581
+Germany,coal,1986,563
+Germany,coal,1987,554
+Germany,coal,1988,551
+Germany,coal,1989,549
+Germany,coal,1990,505
+Germany,coal,1991,449
+Germany,coal,1992,409
+Germany,coal,1993,391
+Germany,coal,1994,382
+Germany,coal,1995,370
+Germany,coal,1996,373
+Germany,coal,1997,355
+Germany,coal,1998,347
+Germany,coal,1999,329
+Germany,coal,2000,337
+Germany,coal,2001,339
+Germany,coal,2002,341
+Germany,coal,2003,340
+Germany,coal,2004,349
+Germany,coal,2005,332
+Germany,coal,2006,339
+Germany,coal,2007,349
+Germany,coal,2008,328
+Germany,coal,2009,290
+Germany,coal,2010,306
+Germany,oil,1971,386
+Germany,oil,1972,408
+Germany,oil,1973,437
+Germany,oil,1974,394
+Germany,oil,1975,392
+Germany,oil,1976,412
+Germany,oil,1977,410
+Germany,oil,1978,431
+Germany,oil,1979,439
+Germany,oil,1980,386
+Germany,oil,1981,347
+Germany,oil,1982,327
+Germany,oil,1983,319
+Germany,oil,1984,316
+Germany,oil,1985,327
+Germany,oil,1986,344
+Germany,oil,1987,335
+Germany,oil,1988,333
+Germany,oil,1989,307
+Germany,oil,1990,322
+Germany,oil,1991,346
+Germany,oil,1992,348
+Germany,oil,1993,353
+Germany,oil,1994,344
+Germany,oil,1995,344
+Germany,oil,1996,353
+Germany,oil,1997,345
+Germany,oil,1998,345
+Germany,oil,1999,331
+Germany,oil,2000,322
+Germany,oil,2001,328
+Germany,oil,2002,315
+Germany,oil,2003,307
+Germany,oil,2004,301
+Germany,oil,2005,293
+Germany,oil,2006,295
+Germany,oil,2007,258
+Germany,oil,2008,279
+Germany,oil,2009,268
+Germany,oil,2010,266
+Germany,natural_gas,1971,39
+Germany,natural_gas,1972,51
+Germany,natural_gas,1973,66
+Germany,natural_gas,1974,82
+Germany,natural_gas,1975,86
+Germany,natural_gas,1976,92
+Germany,natural_gas,1977,99
+Germany,natural_gas,1978,106
+Germany,natural_gas,1979,116
+Germany,natural_gas,1980,115
+Germany,natural_gas,1981,111
+Germany,natural_gas,1982,103
+Germany,natural_gas,1983,106
+Germany,natural_gas,1984,107
+Germany,natural_gas,1985,105
+Germany,natural_gas,1986,107
+Germany,natural_gas,1987,116
+Germany,natural_gas,1988,115
+Germany,natural_gas,1989,118
+Germany,natural_gas,1990,118
+Germany,natural_gas,1991,125
+Germany,natural_gas,1992,125
+Germany,natural_gas,1993,130
+Germany,natural_gas,1994,137
+Germany,natural_gas,1995,147
+Germany,natural_gas,1996,164
+Germany,natural_gas,1997,157
+Germany,natural_gas,1998,159
+Germany,natural_gas,1999,160
+Germany,natural_gas,2000,158
+Germany,natural_gas,2001,165
+Germany,natural_gas,2002,165
+Germany,natural_gas,2003,185
+Germany,natural_gas,2004,182
+Germany,natural_gas,2005,180
+Germany,natural_gas,2006,182
+Germany,natural_gas,2007,177
+Germany,natural_gas,2008,181
+Germany,natural_gas,2009,173
+Germany,natural_gas,2010,172
+Spain,total_carbon,1971,120
+Spain,total_carbon,1972,126
+Spain,total_carbon,1973,140
+Spain,total_carbon,1974,152
+Spain,total_carbon,1975,157
+Spain,total_carbon,1976,173
+Spain,total_carbon,1977,167
+Spain,total_carbon,1978,166
+Spain,total_carbon,1979,176
+Spain,total_carbon,1980,188
+Spain,total_carbon,1981,191
+Spain,total_carbon,1982,186
+Spain,total_carbon,1983,190
+Spain,total_carbon,1984,180
+Spain,total_carbon,1985,175
+Spain,total_carbon,1986,179
+Spain,total_carbon,1987,180
+Spain,total_carbon,1988,185
+Spain,total_carbon,1989,202
+Spain,total_carbon,1990,205
+Spain,total_carbon,1991,213
+Spain,total_carbon,1992,224
+Spain,total_carbon,1993,210
+Spain,total_carbon,1994,220
+Spain,total_carbon,1995,233
+Spain,total_carbon,1996,222
+Spain,total_carbon,1997,241
+Spain,total_carbon,1998,249
+Spain,total_carbon,1999,268
+Spain,total_carbon,2000,284
+Spain,total_carbon,2001,286
+Spain,total_carbon,2002,302
+Spain,total_carbon,2003,310
+Spain,total_carbon,2004,327
+Spain,total_carbon,2005,339
+Spain,total_carbon,2006,332
+Spain,total_carbon,2007,344
+Spain,total_carbon,2008,317
+Spain,total_carbon,2009,282
+Spain,total_carbon,2010,268
+Spain,coal,1971,37
+Spain,coal,1972,38
+Spain,coal,1973,36
+Spain,coal,1974,35
+Spain,coal,1975,37
+Spain,coal,1976,36
+Spain,coal,1977,40
+Spain,coal,1978,36
+Spain,coal,1979,40
+Spain,coal,1980,48
+Spain,coal,1981,58
+Spain,coal,1982,65
+Spain,coal,1983,70
+Spain,coal,1984,71
+Spain,coal,1985,69
+Spain,coal,1986,72
+Spain,coal,1987,70
+Spain,coal,1988,60
+Spain,coal,1989,75
+Spain,coal,1990,73
+Spain,coal,1991,74
+Spain,coal,1992,78
+Spain,coal,1993,70
+Spain,coal,1994,69
+Spain,coal,1995,71
+Spain,coal,1996,60
+Spain,coal,1997,68
+Spain,coal,1998,65
+Spain,coal,1999,75
+Spain,coal,2000,82
+Spain,coal,2001,74
+Spain,coal,2002,83
+Spain,coal,2003,77
+Spain,coal,2004,80
+Spain,coal,2005,80
+Spain,coal,2006,69
+Spain,coal,2007,78
+Spain,coal,2008,53
+Spain,coal,2009,40
+Spain,coal,2010,31
+Spain,oil,1971,82
+Spain,oil,1972,87
+Spain,oil,1973,103
+Spain,oil,1974,115
+Spain,oil,1975,117
+Spain,oil,1976,135
+Spain,oil,1977,124
+Spain,oil,1978,127
+Spain,oil,1979,133
+Spain,oil,1980,137
+Spain,oil,1981,129
+Spain,oil,1982,117
+Spain,oil,1983,116
+Spain,oil,1984,106
+Spain,oil,1985,102
+Spain,oil,1986,102
+Spain,oil,1987,105
+Spain,oil,1988,117
+Spain,oil,1989,118
+Spain,oil,1990,121
+Spain,oil,1991,127
+Spain,oil,1992,133
+Spain,oil,1993,127
+Spain,oil,1994,136
+Spain,oil,1995,143
+Spain,oil,1996,143
+Spain,oil,1997,146
+Spain,oil,1998,156
+Spain,oil,1999,162
+Spain,oil,2000,167
+Spain,oil,2001,173
+Spain,oil,2002,175
+Spain,oil,2003,183
+Spain,oil,2004,190
+Spain,oil,2005,191
+Spain,oil,2006,190
+Spain,oil,2007,190
+Spain,oil,2008,182
+Spain,oil,2009,168
+Spain,oil,2010,164
+Spain,natural_gas,1971,1
+Spain,natural_gas,1972,1
+Spain,natural_gas,1973,2
+Spain,natural_gas,1974,2
+Spain,natural_gas,1975,2
+Spain,natural_gas,1976,2
+Spain,natural_gas,1977,2
+Spain,natural_gas,1978,2
+Spain,natural_gas,1979,3
+Spain,natural_gas,1980,3
+Spain,natural_gas,1981,4
+Spain,natural_gas,1982,4
+Spain,natural_gas,1983,4
+Spain,natural_gas,1984,4
+Spain,natural_gas,1985,5
+Spain,natural_gas,1986,5
+Spain,natural_gas,1987,6
+Spain,natural_gas,1988,7
+Spain,natural_gas,1989,9
+Spain,natural_gas,1990,11
+Spain,natural_gas,1991,12
+Spain,natural_gas,1992,13
+Spain,natural_gas,1993,13
+Spain,natural_gas,1994,14
+Spain,natural_gas,1995,17
+Spain,natural_gas,1996,19
+Spain,natural_gas,1997,25
+Spain,natural_gas,1998,26
+Spain,natural_gas,1999,30
+Spain,natural_gas,2000,35
+Spain,natural_gas,2001,38
+Spain,natural_gas,2002,43
+Spain,natural_gas,2003,49
+Spain,natural_gas,2004,57
+Spain,natural_gas,2005,67
+Spain,natural_gas,2006,72
+Spain,natural_gas,2007,74
+Spain,natural_gas,2008,81
+Spain,natural_gas,2009,72
+Spain,natural_gas,2010,72
+Australia,total_carbon,1971,144
+Australia,total_carbon,1972,149
+Australia,total_carbon,1973,159
+Australia,total_carbon,1974,173
+Australia,total_carbon,1975,180
+Australia,total_carbon,1976,182
+Australia,total_carbon,1977,197
+Australia,total_carbon,1978,192
+Australia,total_carbon,1979,198
+Australia,total_carbon,1980,208
+Australia,total_carbon,1981,208
+Australia,total_carbon,1982,215
+Australia,total_carbon,1983,203
+Australia,total_carbon,1984,209
+Australia,total_carbon,1985,221
+Australia,total_carbon,1986,222
+Australia,total_carbon,1987,232
+Australia,total_carbon,1988,242
+Australia,total_carbon,1989,255
+Australia,total_carbon,1990,260
+Australia,total_carbon,1991,261
+Australia,total_carbon,1992,265
+Australia,total_carbon,1993,269
+Australia,total_carbon,1994,275
+Australia,total_carbon,1995,285
+Australia,total_carbon,1996,296
+Australia,total_carbon,1997,303
+Australia,total_carbon,1998,323
+Australia,total_carbon,1999,333
+Australia,total_carbon,2000,339
+Australia,total_carbon,2001,351
+Australia,total_carbon,2002,359
+Australia,total_carbon,2003,361
+Australia,total_carbon,2004,371
+Australia,total_carbon,2005,369
+Australia,total_carbon,2006,374
+Australia,total_carbon,2007,384
+Australia,total_carbon,2008,386
+Australia,total_carbon,2009,384
+Australia,total_carbon,2010,383
+Australia,coal,1971,73
+Australia,coal,1972,77
+Australia,coal,1973,79
+Australia,coal,1974,85
+Australia,coal,1975,90
+Australia,coal,1976,91
+Australia,coal,1977,98
+Australia,coal,1978,90
+Australia,coal,1979,95
+Australia,coal,1980,104
+Australia,coal,1981,105
+Australia,coal,1982,110
+Australia,coal,1983,103
+Australia,coal,1984,106
+Australia,coal,1985,117
+Australia,coal,1986,115
+Australia,coal,1987,123
+Australia,coal,1988,128
+Australia,coal,1989,137
+Australia,coal,1990,137
+Australia,coal,1991,142
+Australia,coal,1992,145
+Australia,coal,1993,146
+Australia,coal,1994,148
+Australia,coal,1995,152
+Australia,coal,1996,159
+Australia,coal,1997,165
+Australia,coal,1998,182
+Australia,coal,1999,188
+Australia,coal,2000,189
+Australia,coal,2001,200
+Australia,coal,2002,205
+Australia,coal,2003,203
+Australia,coal,2004,210
+Australia,coal,2005,201
+Australia,coal,2006,205
+Australia,coal,2007,207
+Australia,coal,2008,204
+Australia,coal,2009,204
+Australia,coal,2010,199
+Australia,oil,1971,67
+Australia,oil,1972,66
+Australia,oil,1973,72
+Australia,oil,1974,81
+Australia,oil,1975,81
+Australia,oil,1976,82
+Australia,oil,1977,87
+Australia,oil,1978,89
+Australia,oil,1979,89
+Australia,oil,1980,87
+Australia,oil,1981,84
+Australia,oil,1982,83
+Australia,oil,1983,78
+Australia,oil,1984,80
+Australia,oil,1985,80
+Australia,oil,1986,80
+Australia,oil,1987,81
+Australia,oil,1988,84
+Australia,oil,1989,88
+Australia,oil,1990,89
+Australia,oil,1991,88
+Australia,oil,1992,87
+Australia,oil,1993,89
+Australia,oil,1994,91
+Australia,oil,1995,95
+Australia,oil,1996,98
+Australia,oil,1997,99
+Australia,oil,1998,100
+Australia,oil,1999,102
+Australia,oil,2000,105
+Australia,oil,2001,104
+Australia,oil,2002,102
+Australia,oil,2003,105
+Australia,oil,2004,107
+Australia,oil,2005,113
+Australia,oil,2006,113
+Australia,oil,2007,114
+Australia,oil,2008,118
+Australia,oil,2009,116
+Australia,oil,2010,117
+Australia,natural_gas,1971,4
+Australia,natural_gas,1972,6
+Australia,natural_gas,1973,7
+Australia,natural_gas,1974,8
+Australia,natural_gas,1975,9
+Australia,natural_gas,1976,10
+Australia,natural_gas,1977,12
+Australia,natural_gas,1978,13
+Australia,natural_gas,1979,14
+Australia,natural_gas,1980,17
+Australia,natural_gas,1981,19
+Australia,natural_gas,1982,21
+Australia,natural_gas,1983,21
+Australia,natural_gas,1984,23
+Australia,natural_gas,1985,24
+Australia,natural_gas,1986,27
+Australia,natural_gas,1987,28
+Australia,natural_gas,1988,29
+Australia,natural_gas,1989,30
+Australia,natural_gas,1990,33
+Australia,natural_gas,1991,31
+Australia,natural_gas,1992,32
+Australia,natural_gas,1993,34
+Australia,natural_gas,1994,35
+Australia,natural_gas,1995,38
+Australia,natural_gas,1996,38
+Australia,natural_gas,1997,38
+Australia,natural_gas,1998,40
+Australia,natural_gas,1999,42
+Australia,natural_gas,2000,44
+Australia,natural_gas,2001,46
+Australia,natural_gas,2002,51
+Australia,natural_gas,2003,52
+Australia,natural_gas,2004,54
+Australia,natural_gas,2005,55
+Australia,natural_gas,2006,55
+Australia,natural_gas,2007,62
+Australia,natural_gas,2008,63
+Australia,natural_gas,2009,64
+Australia,natural_gas,2010,67
+Japan,total_carbon,1971,759
+Japan,total_carbon,1972,798
+Japan,total_carbon,1973,908
+Japan,total_carbon,1974,895
+Japan,total_carbon,1975,856
+Japan,total_carbon,1976,885
+Japan,total_carbon,1977,911
+Japan,total_carbon,1978,907
+Japan,total_carbon,1979,931
+Japan,total_carbon,1980,881
+Japan,total_carbon,1981,857
+Japan,total_carbon,1982,833
+Japan,total_carbon,1983,840
+Japan,total_carbon,1984,898
+Japan,total_carbon,1985,878
+Japan,total_carbon,1986,877
+Japan,total_carbon,1987,884
+Japan,total_carbon,1988,952
+Japan,total_carbon,1989,980
+Japan,total_carbon,1990,1064
+Japan,total_carbon,1991,1073
+Japan,total_carbon,1992,1083
+Japan,total_carbon,1993,1079
+Japan,total_carbon,1994,1133
+Japan,total_carbon,1995,1148
+Japan,total_carbon,1996,1163
+Japan,total_carbon,1997,1160
+Japan,total_carbon,1998,1129
+Japan,total_carbon,1999,1169
+Japan,total_carbon,2000,1184
+Japan,total_carbon,2001,1170
+Japan,total_carbon,2002,1205
+Japan,total_carbon,2003,1213
+Japan,total_carbon,2004,1212
+Japan,total_carbon,2005,1221
+Japan,total_carbon,2006,1205
+Japan,total_carbon,2007,1242
+Japan,total_carbon,2008,1154
+Japan,total_carbon,2009,1096
+Japan,total_carbon,2010,1143
+Japan,coal,1971,194
+Japan,coal,1972,199
+Japan,coal,1973,203
+Japan,coal,1974,203
+Japan,coal,1975,198
+Japan,coal,1976,196
+Japan,coal,1977,186
+Japan,coal,1978,168
+Japan,coal,1979,181
+Japan,coal,1980,191
+Japan,coal,1981,205
+Japan,coal,1982,218
+Japan,coal,1983,214
+Japan,coal,1984,237
+Japan,coal,1985,249
+Japan,coal,1986,240
+Japan,coal,1987,238
+Japan,coal,1988,258
+Japan,coal,1989,259
+Japan,coal,1990,293
+Japan,coal,1991,292
+Japan,coal,1992,290
+Japan,coal,1993,297
+Japan,coal,1994,309
+Japan,coal,1995,320
+Japan,coal,1996,331
+Japan,coal,1997,340
+Japan,coal,1998,327
+Japan,coal,1999,345
+Japan,coal,2000,369
+Japan,coal,2001,378
+Japan,coal,2002,398
+Japan,coal,2003,411
+Japan,coal,2004,421
+Japan,coal,2005,430
+Japan,coal,2006,432
+Japan,coal,2007,450
+Japan,coal,2008,415
+Japan,coal,2009,393
+Japan,coal,2010,425
+Japan,oil,1971,556
+Japan,oil,1972,590
+Japan,oil,1973,691
+Japan,oil,1974,675
+Japan,oil,1975,639
+Japan,oil,1976,666
+Japan,oil,1977,697
+Japan,oil,1978,701
+Japan,oil,1979,705
+Japan,oil,1980,639
+Japan,oil,1981,599
+Japan,oil,1982,562
+Japan,oil,1983,568
+Japan,oil,1984,584
+Japan,oil,1985,547
+Japan,oil,1986,554
+Japan,oil,1987,559
+Japan,oil,1988,604
+Japan,oil,1989,624
+Japan,oil,1990,655
+Japan,oil,1991,657
+Japan,oil,1992,669
+Japan,oil,1993,654
+Japan,oil,1994,690
+Japan,oil,1995,689
+Japan,oil,1996,687
+Japan,oil,1997,670
+Japan,oil,1998,649
+Japan,oil,1999,662
+Japan,oil,2000,647
+Japan,oil,2001,624
+Japan,oil,2002,635
+Japan,oil,2003,623
+Japan,oil,2004,614
+Japan,oil,2005,613
+Japan,oil,2006,577
+Japan,oil,2007,579
+Japan,oil,2008,530
+Japan,oil,2009,495
+Japan,oil,2010,497
+Japan,natural_gas,1971,9
+Japan,natural_gas,1972,9
+Japan,natural_gas,1973,14
+Japan,natural_gas,1974,17
+Japan,natural_gas,1975,19
+Japan,natural_gas,1976,23
+Japan,natural_gas,1977,28
+Japan,natural_gas,1978,38
+Japan,natural_gas,1979,45
+Japan,natural_gas,1980,51
+Japan,natural_gas,1981,52
+Japan,natural_gas,1982,53
+Japan,natural_gas,1983,57
+Japan,natural_gas,1984,76
+Japan,natural_gas,1985,81
+Japan,natural_gas,1986,83
+Japan,natural_gas,1987,86
+Japan,natural_gas,1988,90
+Japan,natural_gas,1989,96
+Japan,natural_gas,1990,115
+Japan,natural_gas,1991,122
+Japan,natural_gas,1992,124
+Japan,natural_gas,1993,127
+Japan,natural_gas,1994,133
+Japan,natural_gas,1995,137
+Japan,natural_gas,1996,143
+Japan,natural_gas,1997,148
+Japan,natural_gas,1998,151
+Japan,natural_gas,1999,160
+Japan,natural_gas,2000,165
+Japan,natural_gas,2001,164
+Japan,natural_gas,2002,169
+Japan,natural_gas,2003,175
+Japan,natural_gas,2004,174
+Japan,natural_gas,2005,174
+Japan,natural_gas,2006,192
+Japan,natural_gas,2007,209
+Japan,natural_gas,2008,205
+Japan,natural_gas,2009,204
+Japan,natural_gas,2010,215
+France,total_carbon,1971,432
+France,total_carbon,1972,449
+France,total_carbon,1973,485
+France,total_carbon,1974,465
+France,total_carbon,1975,431
+France,total_carbon,1976,469
+France,total_carbon,1977,455
+France,total_carbon,1978,475
+France,total_carbon,1979,482
+France,total_carbon,1980,461
+France,total_carbon,1981,414
+France,total_carbon,1982,397
+France,total_carbon,1983,381
+France,total_carbon,1984,369
+France,total_carbon,1985,360
+France,total_carbon,1986,348
+France,total_carbon,1987,342
+France,total_carbon,1988,341
+France,total_carbon,1989,356
+France,total_carbon,1990,352
+France,total_carbon,1991,380
+France,total_carbon,1992,368
+France,total_carbon,1993,349
+France,total_carbon,1994,344
+France,total_carbon,1995,354
+France,total_carbon,1996,369
+France,total_carbon,1997,362
+France,total_carbon,1998,385
+France,total_carbon,1999,378
+France,total_carbon,2000,377
+France,total_carbon,2001,384
+France,total_carbon,2002,376
+France,total_carbon,2003,385
+France,total_carbon,2004,385
+France,total_carbon,2005,388
+France,total_carbon,2006,380
+France,total_carbon,2007,373
+France,total_carbon,2008,370
+France,total_carbon,2009,351
+France,total_carbon,2010,358
+France,coal,1971,135
+France,coal,1972,119
+France,coal,1973,119
+France,coal,1974,118
+France,coal,1975,104
+France,coal,1976,118
+France,coal,1977,119
+France,coal,1978,116
+France,coal,1979,122
+France,coal,1980,121
+France,coal,1981,107
+France,coal,1982,111
+France,coal,1983,100
+France,coal,1984,97
+France,coal,1985,91
+France,coal,1986,78
+France,coal,1987,71
+France,coal,1988,71
+France,coal,1989,78
+France,coal,1990,74
+France,coal,1991,79
+France,coal,1992,70
+France,coal,1993,54
+France,coal,1994,54
+France,coal,1995,57
+France,coal,1996,61
+France,coal,1997,56
+France,coal,1998,66
+France,coal,1999,58
+France,coal,2000,58
+France,coal,2001,48
+France,coal,2002,50
+France,coal,2003,51
+France,coal,2004,50
+France,coal,2005,54
+France,coal,2006,51
+France,coal,2007,53
+France,coal,2008,51
+France,coal,2009,43
+France,coal,2010,45
+France,oil,1971,277
+France,oil,1972,306
+France,oil,1973,338
+France,oil,1974,317
+France,oil,1975,293
+France,oil,1976,315
+France,oil,1977,298
+France,oil,1978,318
+France,oil,1979,313
+France,oil,1980,293
+France,oil,1981,258
+France,oil,1982,238
+France,oil,1983,231
+France,oil,1984,220
+France,oil,1985,215
+France,oil,1986,215
+France,oil,1987,215
+France,oil,1988,215
+France,oil,1989,221
+France,oil,1990,220
+France,oil,1991,235
+France,oil,1992,231
+France,oil,1993,227
+France,oil,1994,223
+France,oil,1995,227
+France,oil,1996,231
+France,oil,1997,230
+France,oil,1998,242
+France,oil,1999,238
+France,oil,2000,234
+France,oil,2001,246
+France,oil,2002,236
+France,oil,2003,240
+France,oil,2004,239
+France,oil,2005,237
+France,oil,2006,235
+France,oil,2007,228
+France,oil,2008,224
+France,oil,2009,216
+France,oil,2010,211
+France,natural_gas,1971,19
+France,natural_gas,1972,24
+France,natural_gas,1973,28
+France,natural_gas,1974,30
+France,natural_gas,1975,33
+France,natural_gas,1976,37
+France,natural_gas,1977,39
+France,natural_gas,1978,41
+France,natural_gas,1979,47
+France,natural_gas,1980,47
+France,natural_gas,1981,49
+France,natural_gas,1982,47
+France,natural_gas,1983,50
+France,natural_gas,1984,53
+France,natural_gas,1985,54
+France,natural_gas,1986,55
+France,natural_gas,1987,56
+France,natural_gas,1988,54
+France,natural_gas,1989,55
+France,natural_gas,1990,56
+France,natural_gas,1991,64
+France,natural_gas,1992,64
+France,natural_gas,1993,65
+France,natural_gas,1994,64
+France,natural_gas,1995,66
+France,natural_gas,1996,73
+France,natural_gas,1997,72
+France,natural_gas,1998,74
+France,natural_gas,1999,78
+France,natural_gas,2000,81
+France,natural_gas,2001,85
+France,natural_gas,2002,86
+France,natural_gas,2003,89
+France,natural_gas,2004,91
+France,natural_gas,2005,92
+France,natural_gas,2006,90
+France,natural_gas,2007,87
+France,natural_gas,2008,90
+France,natural_gas,2009,87
+France,natural_gas,2010,96

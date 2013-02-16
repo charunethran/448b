@@ -1,0 +1,280 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Visualizing Climate Change</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+    <header>
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="index.html">Visualizing <span class="logo_colour">Climate Change</span></a></h1>
+          <h2>give some caption</h2>
+        </div>
+      </div>
+      <nav>
+        <div id="menu_container">
+          <ul class="sf-menu" id="nav">
+            <li><a href="index.html">Introduction</a></li>
+			<li><a href="timeline.html">Disasters in the US</a></li>
+            <li><a href="kyoto.html">Kyoto Protocol & Carbon emission</a></li>
+            <li><a href="sealevel.html">Sea Level Increase</a></li>
+            <li><a href="#">Team</a>
+              <ul>
+                <li><a href="#">Charunethran PG</a></li>
+				<li><a href="#">Maruti D</a></li>
+				<li><a href="#">Pranav Pai</a></li>
+              </ul>
+            </li>
+           
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <div id="site_content">
+      <div class="content">
+        
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<link href="src/nv.d3.css" rel="stylesheet" type="text/css">
+
+<style>
+
+body {
+  overflow-y:scroll;
+}
+
+text {
+  font: 12px sans-serif;
+}
+
+svg {
+  display: block;
+}
+
+#chart1 svg{
+  height: 300px;
+  min-width: 70px;
+  min-height: 70px;
+/*
+  margin: 1px;
+  Minimum height and width is a good idea to prevent negative SVG dimensions...
+  For example width should be =< margin.left + margin.right + 1,
+  of course 1 pixel for the entire chart would not be very useful, BUT should not have errors
+*/
+}
+
+</style>
+<body>
+
+  <div id="chart1">
+    <svg></svg>
+  </div>
+
+<script src="lib/d3.v2.js"></script>
+<script src="nv.d3.js"></script>
+<!-- including all the components so I don't have to minify every time I test in development -->
+<script src="src/tooltip.js"></script>
+<script src="src/utils.js"></script>
+<script src="src/models/axis.js"></script>
+<script src="src/models/discreteBar.js"></script>
+<script src="src/models/discreteBarChart.js"></script>
+<script>
+
+
+
+
+
+historicalBarChart = [ 
+  {
+    key: "Cumulative Return",
+    values: [
+      { 
+        "label" : "1980" ,
+        "value" : 2
+      } , 
+      { 
+        "label" : "1981" , 
+        "value" : 1
+      } , 
+      { 
+        "label" : "1982" , 
+        "value" : 1
+      } , 
+      { 
+        "label" : "1983" , 
+        "value" : 4
+      } , 
+      { 
+        "label" : "1984" ,
+        "value" : 1
+      } , 
+      { 
+        "label" : "1985" , 
+        "value" : 5
+      } , 
+      { 
+        "label" : "1986" , 
+        "value" : 1
+      } , 
+      { 
+        "label" : "1987" , 
+        "value" : 0
+      },
+      { 
+        "label" : "1988" , 
+        "value" : 1
+      } ,
+      { 
+        "label" : "1989" , 
+        "value" : 4
+      } ,
+      { 
+        "label" : "1990" , 
+        "value" : 3
+      } ,
+      { 
+        "label" : "1991" , 
+        "value" : 3
+      } ,
+      { 
+        "label" : "1992" , 
+        "value" : 6
+      } ,
+      { 
+        "label" : "1993" , 
+        "value" : 4
+      } ,
+      { 
+        "label" : "1994" , 
+        "value" : 6
+      } ,
+      { 
+        "label" : "1995" , 
+        "value" : 4
+      } ,
+      { 
+        "label" : "1996" , 
+        "value" : 4
+      } ,
+      { 
+        "label" : "1997" , 
+        "value" : 3
+      } ,
+      { 
+        "label" : "1998" , 
+        "value" : 9
+      } ,
+      { 
+        "label" : "1999" , 
+        "value" : 7
+      } ,
+      { 
+        "label" : "2000" , 
+        "value" : 2
+      } ,
+      { 
+        "label" : "2001" , 
+        "value" : 2
+      } ,
+      { 
+        "label" : "2002" , 
+        "value" : 3
+      } ,
+      { 
+        "label" : "2003" , 
+        "value" : 5
+      } ,
+      { 
+        "label" : "2004" , 
+        "value" : 5
+      } ,
+      { 
+        "label" : "2005" , 
+        "value" : 5
+      } ,
+      { 
+        "label" : "2006" , 
+        "value" : 6
+      } ,
+      { 
+        "label" : "2007" , 
+        "value" : 5
+      } ,
+      { 
+        "label" : "2008" , 
+        "value" : 9
+      } ,
+      { 
+        "label" : "2009" , 
+        "value" : 6
+      } ,
+      { 
+        "label" : "2010" , 
+        "value" : 4
+      } ,
+      { 
+        "label" : "2011" , 
+        "value" : 14
+      } ,
+    ]
+  }
+];
+
+
+
+
+nv.addGraph(function() {  
+  var chart = nv.models.discreteBarChart()
+      .x(function(d) { return d.label })
+      .y(function(d) { return d.value })
+      .staggerLabels(true)
+      //.staggerLabels(historicalBarChart[0].values.length > 8)
+      .tooltips(true)
+      .showValues(true)
+
+  d3.select('#chart1 svg')
+      .datum(historicalBarChart)
+    .transition().duration(1000)
+      .call(chart);
+
+  nv.utils.windowResize(chart.update);
+
+  return chart;
+});
+
+
+
+
+<iframe src='http://embed.verite.co/timeline/?source=0ArdbXxDWWetMdEF1ck93eXMxM21nc0piTUlCOTNOR1E&font=Bevan-PotanoSans&maptype=ROADMAP&lang=en&height=650' width='100%' height='650' frameborder='0'></iframe>
+      </div>
+    </div>
+      </div>
+	  
+	   <div id="timeline-embed"></div>
+    <!--<script type="text/javascript">
+        
+    </script> -->
+	  
+  <p>&nbsp;</p>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>
